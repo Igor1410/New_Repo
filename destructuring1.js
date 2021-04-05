@@ -14,3 +14,5 @@ const { endereco:{lugradouro, numero}} = pessoa
 console.log( lugradouro, numero)
 
 /*Salve*/
+/*Salve*/
+/*salve*/
